@@ -42,7 +42,7 @@
 //using custom hooks
 
 import React from "react";
-import usehttp from "../Hooks/usehttp";
+import usehttp from "../Hooks/useHttp";
 import MealItem from "./MealItem";
 import Error from "./Error";
 const resquestConfig = {};
